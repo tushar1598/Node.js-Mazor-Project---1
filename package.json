@@ -1,0 +1,24 @@
+{
+  "name": "node.js-mazor-project",
+  "version": "1.0.0",
+  "description": "this is my first node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar1598/Node.js-Mazor-Project---1.git"
+  },
+  "author": "Tushar Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar1598/Node.js-Mazor-Project---1/issues"
+  },
+  "homepage": "https://github.com/tushar1598/Node.js-Mazor-Project---1#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  }
+}

@@ -1,0 +1,227 @@
+
+
+
+#full-page{
+    width: 600px;
+   
+    margin: 50px auto;
+    background-color: white;
+}
+
+#body{
+    background-color: rgb(182, 187, 187);
+}
+
+li{
+    display: flex;
+   
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-left: -32px;
+    height: 80px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-color: rgb(238, 226, 226);
+    color: grey;
+
+    padding-left: 20px;
+  
+    
+}
+
+
+
+#ctgry {
+  
+    
+    height: 40px;
+    width: 80px;
+    
+    margin: auto;
+    /* padding: 8px; */
+    background-color: rgb(162, 52, 177);
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 200;
+    
+    
+    
+    
+}
+.form-check{
+    margin-left: 15px;
+    margin-top: 14px;
+   
+ 
+}
+h1{
+    text-align: center;
+  position: relative;
+  top: 7px;
+    
+}
+
+
+#task{
+   
+    width: 300px;
+    margin-left: 15px;
+    margin-top: 10px;
+   
+}
+
+#date{
+    margin-top: -15px;
+    margin-left: 12px;
+    
+}
+
+
+#dis{
+    width: 100%;
+    height: 60px;
+    outline: none;
+    margin-top: -20px;
+    text-indent: 9px;
+    color: grey;
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    font-size: 14px;
+    
+    
+}
+
+#upper{
+    position: relative;
+    top: 7px;
+    left: 11px;
+    color: rgb(150, 140, 140);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#cat{
+    width: 50%;
+    height: 60px;
+    /* margin-top: -20px; */
+    color: grey;
+    border-top: none;
+    border-left: none;
+    padding-left: 6px;
+    font-size: 14px;
+  
+}
+
+
+
+#date{
+    width: 50%;
+    height: 60px;
+    margin-left: 16px;
+    padding-left: 5px;
+   
+}
+
+
+
+#date-box{
+   
+    width: 50%;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid grey;
+    padding-left: 12px;
+    
+}
+
+
+
+
+label{
+    position: relative;
+    color: grey;
+}
+
+#left{
+    position: relative;
+    top: -60px;
+    left: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#right{
+    position: relative;
+    top: -60px;
+    left: 240px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#submit{
+
+    position: relative;
+    left: 150px;
+    top: 0px;
+    width: 120px;
+    padding: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(49, 47, 47);
+    border-radius: 2px;
+    
+}
+#delete{
+
+    position: relative;
+    left: 60px;
+    top: -45px;
+    width: 120px;
+    padding: 10px;
+    background-color: rgb(228, 34, 34);
+    border: none;
+    color: white;
+    border-radius: 2px;
+   
+}
+
+.fa-calendar-days{
+    position: absolute;
+     margin-left:2px;
+     margin-top: -3px;
+}
+
+#cadate{
+    display: flex;
+}
+
+input[type=date] {
+    padding-top: 18px;
+    padding-left: 5px;
+    
+  }
+
+.form-check-input{
+    outline: 1px solid rgb(102, 97, 97);
+    position: relative;
+    top: 1px;
+    cursor: pointer;
+    
+}
+ 
+
+.select-input {
+    color: black;
+  }
+
+  
+  
